@@ -4,6 +4,10 @@
 
 
 # 💻 Tech Stack:
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8934d9.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-ff6565.svg?style=for-the-badge&logo=Laravel&logoColor=white)
@@ -30,6 +34,7 @@ https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi
 ![linux](https://img.shields.io/badge/Linux-003778.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![handlebars](https://img.shields.io/badge/handlebars-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
