@@ -22,7 +22,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-86b109.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Numpy](https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![FastApi](
-https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)![Flask](https://img.shields.io/badge/Flaks-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
+https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![ESLint](https://img.shields.io/badge/EsLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white)
 ![Pug](https://img.shields.io/badge/pug-A86454.svg?style=for-the-badge&logo=Pug&logoColor=white)
