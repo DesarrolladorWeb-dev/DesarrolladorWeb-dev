@@ -1,4 +1,4 @@
-# 💫 Sobre Mi:
+# 💻 Sobre Mi:
 🚀 Recorriendo: Actualmente sumergiéndome profundamente en el océano de freeCodeCamp, explorando la vasta extensión del conocimiento en desarrollo web<br>🌐 Equipos: ¡Abierto a la colaboración! Ya sea frontend o backend, emprendamos un viaje para descubrir los secretos de ambos universos.<br>📘 Misión Actual: Dominando el poder de React, pero sintiendo el atractivo de los misterios del backend. Ansioso por desbloquear el potencial completo del desarrollo web.<br>🔍Mi Especialidad: Cerrando la brecha entre el estilo del frontend y el cerebro del backend. ¿Curioso por la mezcla de estos dos mundos? Hablemos y exploremos las posibilidades.<br>🌟 ¿Sabías Qué?: tengo un don para hacer las cosas con estilo. La eficiencia y la creatividad van de la mano en mi enfoque para resolver problemas..
 
 
