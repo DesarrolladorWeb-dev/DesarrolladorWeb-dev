@@ -40,7 +40,7 @@ https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi
 # 📊 GitHub Stats:
  ![](https://github-readme-stats.vercel.app/api?username=DesarrolladorWeb-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
  ![](https://github-readme-streak-stats.herokuapp.com/?user=DesarrolladorWeb-dev&theme=dark&hide_border=false)<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DesarrolladorWeb-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DesarrolladorWeb-dev&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
@@ -52,6 +52,5 @@ https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aneal07&icon=2&color=4)](https://visitcount.itsvg.in)
 
 
