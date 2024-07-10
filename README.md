@@ -37,7 +37,6 @@ https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi
 
 
 
-# 📊 GitHub Stats:
 
  
 
