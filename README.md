@@ -39,7 +39,6 @@ https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi
 
 # 📊 GitHub Stats:
 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=DesarrolladorWeb-dev&theme=dark&hide_border=false)<br/>
  
 
 ## 🏆 GitHub Trophies
