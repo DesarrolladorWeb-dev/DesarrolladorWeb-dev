@@ -43,8 +43,6 @@ https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DesarrolladorWeb-dev&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DesarrolladorWeb-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
