@@ -45,9 +45,9 @@ https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi
 ![](https://github-profile-trophy.vercel.app/?username=DesarrolladorWeb-dev&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
+> 💡 **Principio de Desarrollo**
+> 
+> *"Primero resuelve el problema. Luego, escribe el código."*
+> 
+> ── **John Johnson**
 
