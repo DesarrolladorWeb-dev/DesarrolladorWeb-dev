@@ -32,14 +32,15 @@ https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi
 ![express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=Espress&logoColor=white)
 ![insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![postman](https://img.shields.io/badge/Node-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![node](https://img.shields.io/badge/Node-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-003778.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![handlebars](https://img.shields.io/badge/handlebars-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
-![handlebars](https://img.shields.io/badge/Sqlserver-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
-![handlebars](https://img.shields.io/badge/Oracle-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
-![handlebars](https://img.shields.io/badge/Claude-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
-![handlebars](https://img.shields.io/badge/Powerbi-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![SqlServer](https://img.shields.io/badge/Sqlserver-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![PowerBi](https://img.shields.io/badge/Powerbi-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/Aws-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
 
 
 
