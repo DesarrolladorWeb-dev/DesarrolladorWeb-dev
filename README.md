@@ -35,6 +35,10 @@ https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi
 ![linux](https://img.shields.io/badge/Linux-003778.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![handlebars](https://img.shields.io/badge/handlebars-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![handlebars](https://img.shields.io/badge/sqlserver-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![handlebars](https://img.shields.io/badge/oracle-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![handlebars](https://img.shields.io/badge/claude-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![handlebars](https://img.shields.io/badge/powerbi-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
 
 
 
